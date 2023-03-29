@@ -1,7 +1,7 @@
-I am a dedicated Software Engineer with over 11 years of experience. I specialize in Javascript, Typescript, and PHP, and have worked on various types of applications for clients such as FindUp (currently), Life Technology and Consulting, Newbird Tech, EloMilhas, Cidiz, and others, ranging from e-commerce applications to shared economy software. My focus is on developing/designing sustainable and performative architectures, leveling up teams with decentralization of knowledge/responsibilities, and always cultivating a healthy and professional environment.
-
 <h1 align="center">Hi 👋, I'm André Antunes</h1>
 <h3 align="center">A FullStack (Backend Hard) from Brazil.</h3>
+
+<h3>I am a dedicated Software Engineer with over 11 years of experience. I specialize in Javascript, Typescript, and PHP, and have worked on various types of applications for clients such as FindUp (currently), Life Technology and Consulting, Newbird Tech, EloMilhas, Cidiz, and others, ranging from e-commerce applications to shared economy software. My focus is on developing/designing sustainable and performative architectures, leveling up teams with decentralization of knowledge/responsibilities, and always cultivating a healthy and professional environment.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreantunesbarros&label=Profile%20views&color=0e75b6&style=flat" alt="andreantunesbarros" /> </p>
 
