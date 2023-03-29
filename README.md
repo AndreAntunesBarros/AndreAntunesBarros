@@ -8,14 +8,15 @@ In summary, I have solid experience in challenging projects and I am always seek
 
 <h3>My areas of expertise include:</h3>
 
-<p>★ Full Stack Development (Back End Hard).</p>
-<p>★ Javascript (TypeScript, Node.js, Ajax, Adonis.js, Nest.js, React, Next.js, Angular.js).</p>
-<p>★ PHP (Core, Laravel, Lumen, CakePhp, Symfony, Yii, Zend).</p>
-<p>★ Cloud Computing (Amazon AWS, Azzure, GPC and Digital Ocean).</p>
-<p>★ Scrum, Kanban and Agile methodologies.</p>
-<p>★ TDD, Unit Testing.</p>
-<p>★ Technical Leadership.</p>
-<p>★ Research and continuous learning.</p>
+<p>★ FullStack Development (BackEnd Hard)</p>
+<p>★ Javascript (TypeScript, Node, Ajax, Adonis.js, Nest.js, React, Next.js, Angular.js)</p>
+<p>★ PHP (Core, Laravel, Lumen, CakePhp, Symfony, Yii, Zend)</p>
+<p>★ Cloud Computing (Amazon AWS, Azzure, GPC and Digital Ocean)</p>
+<p>★ Scrum, Kanban and Agile methodologies</p>
+<p>★ TDD, Unit Testing</p>
+<p>★ Design Patterns</p>
+<p>★ Technical Leadership</p>
+<p>★ Research and continuous learning</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreantunesbarros&label=Profile%20views&color=0e75b6&style=flat" alt="andreantunesbarros" /> </p>
 
