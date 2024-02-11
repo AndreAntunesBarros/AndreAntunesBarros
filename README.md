@@ -1,22 +1,17 @@
 <h1 align="center">Hi 👋, I'm André Antunes</h1>
 <h3 align="center">A FullStack (Backend Hard) from Brazil.</h3>
 
-<h3>A dedicated Software Engineer with over 11 years of experience. Specialized in Javascript, Typescript, and PHP, have worked on various types of applications for clients such as FindUp (currently), Life Technology and Consulting, Newbird Tech, EloMilhas, Cidiz, and others, ranging from e-commerce applications to shared economy software. My focus is on developing/designing sustainable and performative architectures, leveling up teams with decentralization of knowledge/responsibilities, and always cultivating a healthy and professional environment.</h3>
-
+<h3>I am a seasoned professional with over 12 years of hands-on experience in software engineering and programming. Currently, I specialize in Software Engineering with a FullStack background, leaning towards Backend development using Node.js and PHP. My approach to programming is pragmatic, considering languages as tools to solve specific problems efficiently.</h3>
 <h3>
 In summary, I have solid experience in challenging projects and I am always seeking new opportunities to improve my skills and help companies achieve their business objectives through technology.</h3>
 
 <h3>My areas of expertise include:</h3>
 
-<p>★ FullStack Development (BackEnd Hard)</p>
-<p>★ Javascript (TypeScript, Node, Ajax, Adonis.js, Nest.js, React, Next.js, Angular.js)</p>
 <p>★ PHP (Core, Laravel, Lumen, CakePhp, Symfony, Yii, Zend)</p>
-<p>★ Cloud Computing (Amazon AWS, Azzure, GPC and Digital Ocean)</p>
-<p>★ Scrum, Kanban and Agile methodologies</p>
-<p>★ TDD, Unit Testing</p>
-<p>★ Design Patterns</p>
-<p>★ Technical Leadership</p>
-<p>★ Research and continuous learning</p>
+<p>★ Databases: SQL, NoSQL (MySQL, Postgres, MongoDB)</p>
+<p>★ Cloud Computing: Amazon AWS, Azure, GCP</p>
+<p>★ Leadership: Proven experience as a technical leader</p>
+<p>★ Project Complexity: Successfully handled complex projects</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreantunesbarros&label=Profile%20views&color=0e75b6&style=flat" alt="andreantunesbarros" /> </p>
 
