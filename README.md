@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm André Antunes</h1>
-<h3 align="center">A FullStack (Backend Hard) from Brazil.</h3>
 
-<h3>I am a seasoned professional with over 12 years of hands-on experience in software engineering and programming. Currently, I specialize in Software Engineering with a FullStack background, leaning towards Backend development using Node.js and PHP. My approach to programming is pragmatic, considering languages as tools to solve specific problems efficiently.</h3>
-<h3>
-In summary, I have solid experience in challenging projects and I am always seeking new opportunities to improve my skills and help companies achieve their business objectives through technology.</h3>
+<h3>I am an experienced professional with over 13 years of hands-on experience in software engineering and programming. Currently, I specialize in Software Engineering with a FullStack background, focusing on Backend development using Node.js and PHP. My approach to programming is pragmatic, considering languages as tools to efficiently solve specific problems.</h3>
 
 <h3>My areas of expertise include:</h3>
 
-<p>★ PHP (Core, Laravel, Lumen, CakePhp, Symfony, Yii, Zend)</p>
+<p>★ Languages: PHP, JavaScript, TypeScript, Node.js</p>
 <p>★ Databases: SQL, NoSQL (MySQL, Postgres, MongoDB)</p>
 <p>★ Cloud Computing: Amazon AWS, Azure, GCP</p>
 <p>★ Leadership: Proven experience as a technical leader</p>
